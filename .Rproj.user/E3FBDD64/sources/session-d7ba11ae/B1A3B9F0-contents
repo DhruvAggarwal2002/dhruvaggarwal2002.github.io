@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Dhruv Aggarwal"
+  page-footer: CC-BY-SA-4.0 (2026) Dhruv Aggarwal
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: resources.qmd
+        text: Resources
+format:
+  html:
+    theme: 
+      dark: cyborg
+      light: yeti
+    css: styles.css
+    page-layout: full   
+    toc: true
+    toc-location: right-body
+    embed-resources: true
+    link-external-newwindow: true

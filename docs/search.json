@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dhruv Aggarwal",
+    "section": "",
+    "text": "I am an experimental neuroscientist specializing in cognitive neuroscience and empirical memory research. I hold an MSc (Distinction) in Brain Sciences from the University of Glasgow. I am experienced in programming and executing controlled multifactorial cognitive experiments and eye-tracking paradigms. My research interests focus on mapping the neural bases for memory processes in the human brain. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Dhruv Aggarwal",
+    "section": "",
+    "text": "I am an experimental neuroscientist specializing in cognitive neuroscience and empirical memory research. I hold an MSc (Distinction) in Brain Sciences from the University of Glasgow. I am experienced in programming and executing controlled multifactorial cognitive experiments and eye-tracking paradigms. My research interests focus on mapping the neural bases for memory processes in the human brain. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dhruv Aggarwal",
+    "section": "Education",
+    "text": "Education\nMSc Brain Sciences | University of Glasgow, United Kingdom | 2024-2025\nGrade: Distinction\nThesis: “Associative Asymmetry in Episodic Memory: An Experimental Study on Directional Biases in Recall Using Picture Sequences”\n\nBA (Hons.) Psychology | O. P. Jindal Global University, India | 2021-2024\nGrade: CGPA 8.0/8.0 | Gold Medal - 1st position in cohort\nThesis: “Internet Browsing Behaviour and its Influence on Cognitive Processing in College Students: A Study Among Indian Young Adults”"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "Dhruv Aggarwal",
+    "section": "Research Experience",
+    "text": "Research Experience\nResearch Intern | O. P. Jindal Global University, India\nRemote | 05/2026 - Present\n\nSupervisor: Dr. Kanika Malik | Funding: Wellcome Trust & King’s College London\nProject: ‘METROPOLIS (Mechanistic Trial of Problem Solving and Behavioural Activation for Depression)’\nEngaging in psychometric assessment, statistical analysis and data visualization from the testing phase of the project.\n\n\nResearch Assistant | Emotion and Cognition Research Centre, JSPC, India\nHybrid | 06/2024 - 06/2026\n\nSupervisor: Dr. Divya Bhatia | Funding: O. P. Jindal Global University\nProject: ‘Personal Memory in the Digital Age: Scoping Review of Social Media Posting Effects’\nLed a scoping review following PRISMA-SCR guidelines; developed Boolean search strings, led dual-stage screening and data extraction across Scopus and PubMed."
+  },
+  {
+    "objectID": "index.html#teaching-mentorship",
+    "href": "index.html#teaching-mentorship",
+    "title": "Dhruv Aggarwal",
+    "section": "Teaching & Mentorship",
+    "text": "Teaching & Mentorship\nDirector of Research Initiatives | Tertiary Education Advisors (TEA)\nRemote | 01/2026 - Present\n\nInvolved in the development of the Trishul Research Program initiative - a collaborative research mentorship opportunity for high school and undergraduate students.\nResponsible for auditing the program’s governing academic policy and compliance with international research standards while also coordinating with a multidisciplinary and international cohort of academic mentors.\nOffering one-to-one mentorship for high school and undergraduate students in research design, academic writing, and manuscript development within psychology and neuroscience."
+  },
+  {
+    "objectID": "index.html#open-science",
+    "href": "index.html#open-science",
+    "title": "Dhruv Aggarwal",
+    "section": "Open Science",
+    "text": "Open Science\nReviewer for Open Science Curriculum | Framework for Open and Reproducible Research Training (FORRT)\nRemote | 09/2025 - Present\n\nContributed to international initiatives promoting transparent and reproducible research practices.\nReviewed educational materials promoting open science, pre-registration, and reproducibility in research."
+  },
+  {
+    "objectID": "index.html#peer-review",
+    "href": "index.html#peer-review",
+    "title": "Dhruv Aggarwal",
+    "section": "Peer Review",
+    "text": "Peer Review\nI have peer reviewed for the Journal of Open Psychology Data and am open to more reviewing opportunities."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources I Used",
+    "section": "",
+    "text": "As someone with a background in psychology and neuroscience, I was introduced to Quarto and R very recently. Since I had no prior experience, coding and data science seemed extremely complex and intimidating.\nThankfully, I have had the chance to use some amazing open-science materials posted across forums to learn. To make this website, I used the following guide made by Dr. James Bartlett at the University of Glasgow (UK): Dissemination using Quarto and Github Pages used under a CC-BY-SA-4.0 license.\n\n\n\n\n\n\nNote\n\n\n\nI shall update this page as and when I come across new Quarto resources worth sharing."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Publications\n\nAggarwal, D., Zhang, K., & Bartlett, J. (2026). Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022). Replication Research, 2. https://doi.org/10.17879/replicationresearch-2026- 10085\nAggarwal, D., Naik, J., & Lindquist, D. H. (2025). Biphasic model of addiction: Neurobehavioral adaptations. Current Behavioral Neuroscience Reports, 12(1). https://doi.org/10.1007/s40473-025-00314-0\n\n\n\nPre-prints\n\nAggarwal, D., & Smith, P.J. Intentional Forgetting of Autobiographical Memories: Current Neuroimaging Evidence and Moving Towards an Integrationist EEG-fMRI Approach. Preprint available at: https://doi.org/10.31234/osf.io/45brz_v2\nAggarwal, D., & Lindquist, D. H. Internet Browsing Behaviour and Its Influence on Cognitive Processing in College Students. Preprint available at: https://doi.org/10.31234/osf.io/9qnaj_v1\n\n\n\nUnder Peer-review\n\nAggarwal, D., Gupta, A., Tyagi, K., & Bhatia, D. Personal memory in the digital age: A scoping review of social media posting effects.\nAggarwal, D., Kaurr, R., & Kaur, A. Social Media Usage, Affective Experiences and Mental Health amongst Young Adults of Northern India."
+  }
+]
