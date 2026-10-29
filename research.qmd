@@ -8,15 +8,15 @@ format:
 
 ### Publications
 
-- **Aggarwal, D.**, Zhang, K., & Bartlett, J. (2026). Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022). Replication Research, 2. https://doi.org/10.17879/replicationresearch-2026- 10085
+- **Aggarwal, D.**, Zhang, K., & Bartlett, J. (2026). Debunking decreases mistaken causal inferences: A direct replication of Irving et al. (2022). Replication Research, 2. [https://doi.org/10.17879/replicationresearch-2026-10085](https://www.replicationresearch.org/articles/10085/)
 
-- **Aggarwal, D.**, Naik, J., & Lindquist, D. H. (2025). Biphasic model of addiction: Neurobehavioral adaptations. Current Behavioral Neuroscience Reports, 12(1). https://doi.org/10.1007/s40473-025-00314-0
+- **Aggarwal, D.**, Naik, J., & Lindquist, D. H. (2025). Biphasic model of addiction: Neurobehavioral adaptations. Current Behavioral Neuroscience Reports, 12(1). <https://doi.org/10.1007/s40473-025-00314-0>
 
 ### Pre-prints
 
-- **Aggarwal, D.**, & Smith, P.J. Intentional Forgetting of Autobiographical Memories: Current Neuroimaging Evidence and Moving Towards an Integrationist EEG-fMRI Approach. Preprint available at: https://doi.org/10.31234/osf.io/45brz_v2
+- **Aggarwal, D.**, & Smith, P. Intentional Forgetting of Autobiographical Memories: Current Neuroimaging Evidence and Moving Towards an Integrationist EEG-fMRI Approach. Preprint available at: <https://doi.org/10.31234/osf.io/45brz_v3>
 
-- **Aggarwal, D.**, & Lindquist, D. H. Internet Browsing Behaviour and Its Influence on Cognitive Processing in College Students. Preprint available at: https://doi.org/10.31234/osf.io/9qnaj_v1
+- **Aggarwal, D.**, & Lindquist, D. H. Internet Browsing Behaviour and Its Influence on Cognitive Processing in College Students. Preprint available at: <https://doi.org/10.31234/osf.io/9qnaj_v1>
 
 ### Under Peer-review
 

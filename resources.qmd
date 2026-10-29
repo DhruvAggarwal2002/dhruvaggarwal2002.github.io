@@ -10,6 +10,8 @@ As someone with a background in psychology and neuroscience, I was introduced to
 
 Thankfully, I have had the chance to use some amazing open-science materials posted across forums to learn. To make this website, I used the following guide made by [Dr. James Bartlett](https://bartlettje.github.io/) at the University of Glasgow (UK): [Dissemination using Quarto and Github Pages](https://bartlettje.github.io/dissemination_quarto/) used under a [CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
+If you happen to like this website and want to use certain elements for your own version, the code and materials for this project are available on my GitHub profile [here](https://github.com/DhruvAggarwal2002/dhruvaggarwal2002.github.io).
+
 ::: callout-note
 I shall update this page as and when I come across new Quarto resources worth sharing.
 :::

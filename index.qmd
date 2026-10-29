@@ -29,7 +29,7 @@ about:
 
 ## About
 
-I am an experimental neuroscientist specializing in cognitive neuroscience and empirical memory research. I hold an MSc (Distinction) in Brain Sciences from the University of Glasgow. I am experienced in programming and executing controlled multifactorial cognitive experiments and eye-tracking paradigms. My research interests focus on mapping the neural bases for memory processes in the human brain. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing.
+I am an experimental neuroscientist specializing in cognitive neuroscience and empirical quantitative research. I hold an MSc (Distinction) in Brain Sciences from the University of Glasgow. I am experienced in programming and executing controlled multifactorial cognitive experiments and eye-tracking paradigms. My research interests include mapping the neural bases for cognitive functions such as memory, motivation, attention, and inhibitory control in humans. I am also an active advocate of open science practices such as preregistrations, preprints, and data sharing.
 
 ## Education
 
@@ -38,12 +38,34 @@ I am an experimental neuroscientist specializing in cognitive neuroscience and e
 | *Grade*: Distinction
 | *Thesis*: "Associative Asymmetry in Episodic Memory: An Experimental Study on Directional Biases in Recall Using Picture Sequences"
 
+::: {.callout-note collapse="true"}
+#### Project Summary
+
+Episodic memory literature is torn between accounts of symmetry and asymmetry. While some studies support asymmetry in learning such that it is easier to recall sequences in the way you saw them (forward recall) as opposed to backwards, others suggest both are at par. Spanning across 5 months, along with a peer and a PhD candidate, I conducted an experimental study focused on exploring directionality in episodic memory among adults. Using a within-subjects block design, we aimed to understand if and how, that when viewing episodic image sequences, memory recall accuracy and reaction time differ depending upon the direction of recall (forward vs backward). We showed a sample of 120 participants 42 blocks, each consisting of a 7 naturalistic image sequence, a distractor task, and a cued recall task. Based on literature, we hypothesized that adults would exhibit a directional bias such that they would have lower reaction time and higher accuracy when recalling forwards than backwards.
+
+This pre-registered experiment was programmed in PsychoPy. Data collection for a sample of 120 participants was done using Pavlovia. While primary data analysis was conducted using generalized linear mixed models (GLMMs), exploratory analyses included Bayesian GLMMs in R.
+
+This was a collaborative effort and contributions were made by a PhD candidate and a peer under the supervision of Dr. Wimber.
+
+Pre-registered at [OSF](https://doi.org/10.17605/OSF.IO/TBGVC)
+:::
+
 ------------------------------------------------------------------------
 
 **BA (Hons.) Psychology** \| O. P. Jindal Global University, India \| 2021-2024
 
 | *Grade*: CGPA 8.0/8.0 \| Gold Medal - 1st position in cohort
 | *Thesis*: "Internet Browsing Behaviour and its Influence on Cognitive Processing in College Students: A Study Among Indian Young Adults"
+
+::: {.callout-note collapse="true"}
+#### Project Summary
+
+While internet usage is widespread and pervasive, its cognitive consequences remain poorly understood owing to a scarcity of literature, particularly in non-WEIRD contexts. Spanning across 12 months, I conducted an experimental eye-tracking study focused on the interaction between internet and cognition. I used a 2 (internal distractors vs no internal distractors) x 2 (external distractors vs no external distractors) mixed factorial design to explore if and how the presence of distractors during internet browsing behaviour influences cognitive processing and reading patterns among Indian college students. Cognitive processing included attention, inhibitory control, and memory (recall and recognition).
+
+The entire experiment was programmed in PsyToolKit. Data collection for a sample of 48 participants was done using a combination of PsyToolKit (key press) and iMotions with GazePoint (eye-tracking). Data analysis was done using Bayesian GLMMs in R.
+
+Open materials, data, and code available at [OSF](https://doi.org/10.17605/OSF.IO/Z2GNK)
+:::
 
 ------------------------------------------------------------------------
 
@@ -57,7 +79,7 @@ Remote \| 05/2026 - Present
 
 - *Project*: 'METROPOLIS (Mechanistic Trial of Problem Solving and Behavioural Activation for Depression)'
 
-- Engaging in psychometric assessment, statistical analysis and data visualization from the testing phase of the project.
+- Engaging in REDCap programming along with data wrangling, analysis, and visualization in R from the testing phase of the project.
 
 ------------------------------------------------------------------------
 
@@ -79,11 +101,9 @@ Hybrid \| 06/2024 - 06/2026
 
 Remote \| 01/2026 - Present
 
-- Involved in the development of the Trishul Research Program initiative - a collaborative research mentorship opportunity for high school and undergraduate students.
+- Co-developed the Trishul Research Program. Periodically auditing its governing academic policy to ensure compliance with international research standards and open science practices.
 
-- Responsible for auditing the program’s governing academic policy and compliance with international research standards while also coordinating with a multidisciplinary and international cohort of academic mentors.
-
-- Offering one-to-one mentorship for high school and undergraduate students in research design, academic writing, and manuscript development within psychology and neuroscience.
+- Mentoring students in research design, academic writing, and open science within psychology and neuroscience.
 
 ------------------------------------------------------------------------
 
@@ -93,9 +113,9 @@ Remote \| 01/2026 - Present
 
 Remote \| 09/2025 - Present
 
-- Contributed to international initiatives promoting transparent and reproducible research practices.
+- Contributing to international initiatives promoting transparent and reproducible research practices.
 
-- Reviewed educational materials promoting open science, pre-registration, and reproducibility in research.
+- Reviewing educational materials promoting open science, pre-registration, and reproducibility in research.
 
 ------------------------------------------------------------------------
 
